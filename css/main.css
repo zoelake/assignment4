@@ -137,6 +137,10 @@ h1 {
       grid-template-columns: repeat(5, 1fr);
     }
 
+    .m-1-2 {
+      grid-template-columns: 1fr 2fr;
+    }
+
     .span-full {
       grid-column-start: 1;
       grid-column-end: -1;
